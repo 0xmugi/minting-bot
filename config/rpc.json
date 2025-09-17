@@ -1,0 +1,9 @@
+{
+  "rpcs": [
+    "https://base.drpc.org",
+    "https://endpoints.omniatech.io/v1/base/mainnet/public",
+    "https://base-rpc.publicnode.com"
+  ],
+  "maxFeePerGasMultiplier": 1.2,
+  "maxPriorityFeePerGasMultiplier": 1.2
+}

@@ -1,0 +1,14 @@
+{
+  "name": "base-minting-bot",
+  "version": "1.0.0",
+  "description": "Multi-wallet minting bot for Base chain",
+  "main": "index.js",
+  "scripts": {
+    "pre-sign": "node index.js pre-sign",
+    "retry": "node index.js retry"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "cli-table3": "^0.6.3"
+  }
+}
